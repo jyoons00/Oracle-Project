@@ -1,4 +1,4 @@
-# 쌍용교육센터 오라클 팀 프로젝트
+# 쌍용교육센터 오라클 팀 프로젝트 파일
 24.08.23 ~ 24.09.02
 
 ![2](https://github.com/user-attachments/assets/2942023d-9dbe-49ec-99e9-7ff6e64eabca)
