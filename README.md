@@ -53,4 +53,4 @@ https://www.canva.com/design/DAGPStzHAic/L-zSpddh4WKb8IbTfATSFg/view?utm_content
   
 ---
 #### 추가 리팩토링/개발 예정
-SpringBoot 3를 통한 실제 웹 사이트 구현
+JSP와 Servlet을 활용한 실물 웹사이트 구현
