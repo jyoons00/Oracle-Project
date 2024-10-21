@@ -43,7 +43,7 @@ https://www.canva.com/design/DAGPStzHAic/L-zSpddh4WKb8IbTfATSFg/view?utm_content
 - 장바구니: 전재윤
     - 상품 추가 (저장 프로시저)
     - 가격 관리 (저장 프로시저)
-    - 물품 조회 (저장 프로시저), (묵시적 커서)
+    - 물품 조회 (저장 프로시저, 묵시적 커서)
     - 수량 변경 (저장 프로시저)
     - 선택 여부 (저장 프로시저)
     - 상품 제거 (저장 프로시저)
