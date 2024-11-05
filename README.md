@@ -53,5 +53,6 @@ https://www.canva.com/design/DAGPStzHAic/L-zSpddh4WKb8IbTfATSFg/view?utm_content
   
 ---
 #### 추가 리팩토링/개발 예정
-JSP와 Servlet을 활용한 실물 웹사이트 구현
-https://github.com/jyoons00/Ohora_Project_JSP.git
+JSP와 Servlet을 활용한 실물 웹사이트 구현<br>
+https://github.com/jyoons00/Ohora_Project_JSP.git<br>
+https://github.com/jyoons00/Ohora_Project_DB.git
