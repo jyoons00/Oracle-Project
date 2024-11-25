@@ -3,7 +3,8 @@
 
 ![2](https://github.com/user-attachments/assets/2942023d-9dbe-49ec-99e9-7ff6e64eabca)
 #### PPT링크 
-https://www.canva.com/design/DAGWL8aA9wM/eHasd44113jA_WS11G5hEA/view?utm_content=DAGWL8aA9wM&utm_campaign=designshare&utm_medium=link&utm_source=editor
+[오라클 팀 프로젝트 1팀 발표 자료](https://www.canva.com/design/DAGWL8aA9wM/eHasd44113jA_WS11G5hEA/view?utm_content=DAGWL8aA9wM&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+
 ## 팀 프로젝트: 네일 전문 쇼핑몰 오호라 DB 설계 및 구현
 
 #### 팀원
